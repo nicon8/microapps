@@ -29,8 +29,8 @@
 
 $prefix = "Basic"
 
-$url = "https://dvint21a77b2.eu.iws.cloud.com/api/webhook-listener/b14d2d7f-a08a-483d-8c71-967bf5c6c60c/514a9f6e-594d-4bdc-bd85-a03a2fc87260"
-$token = "mElQpZ0H"
+$url = ""
+$token = ""
 <#
 $data = @{
   "_id"="ab5"
