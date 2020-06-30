@@ -52,7 +52,7 @@ param (
      [Parameter(Mandatory=$true)][String] $token,
      [Parameter(Mandatory=$true)][String] $prefix
      )
-$body = $data | ConvertTo-Json
+$body = $data
 
 <#
 #No Auth
